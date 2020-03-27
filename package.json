@@ -35,6 +35,10 @@
     "react-dom": "^16.8.3",
     "react-syntax-highlighter": "^12.2.1"
   },
+  "repository": {
+    "url": "https://github.com/sikozonpc/react-editor-js-parser",
+    "type": "github"
+  },
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.3.4",
