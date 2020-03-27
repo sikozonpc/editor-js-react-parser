@@ -1,6 +1,6 @@
 {
   "name": "editor-js-react-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Standalone parser for Editor.js clean data for React components",
   "scripts": {
     "ts-build": "rm -rf ./dist/** && tsc",
@@ -8,7 +8,7 @@
     "travis-deploy-once": "travis-deploy-once",
     "semantic-release": "semantic-release",
     "watch": "tsc -- --watch",
-    "test": "jest",
+    "test": "echo 'Not implemented'",
     "build": "tsc",
     "prepare": "yarn build",
     "lint": "echo Not implemented yet",
