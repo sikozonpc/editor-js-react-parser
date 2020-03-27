@@ -1,4 +1,4 @@
-const { defaults } = require('jest-config');
+const { defaults } = require('jest-config')
 
 module.exports = {
   bail: true,
@@ -10,4 +10,4 @@ module.exports = {
   },
   verbose: true,
   "moduleDirectories": ["node_modules", "src"]
-};
+}
